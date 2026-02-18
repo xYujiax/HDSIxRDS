@@ -1,0 +1,5 @@
+FieldName,DataType,Description
+Date,Char,Identifies the end of the listed month of the year that the number of monthly admissions and releases occurred on.
+TotalAdmissions,Num,Shows the total number of admissions to CDCR as of the end of the listed month on the listed year.
+TotalReleases,Num,Shows the total number of releases from CDCR as of the end of the listed month on the listed year.
+YearlyNetChange,Num,Provides the sum of the differences between the total admissions and total releases for the listed year.
